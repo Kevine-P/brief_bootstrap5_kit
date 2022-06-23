@@ -29477,3 +29477,171 @@ blockquote {
 }
 
 /*# sourceMappingURL=pixel.css.map */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header css */
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 250px 0 250px;
+       
+}
+.nav-ul1{
+    display: flex;
+    gap: 30px;
+    transform: translate(100px, 7px);
+    font-size: 14px;
+    
+
+}
+
+.nav-ul1 a {
+   font-weight: bold;
+}
+
+ul{
+    list-style-type: none;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(13, 13, 15);
+}
+
+.btn-facebook {
+    padding: 12px 30px;
+    background-color: rgb(87, 87, 255);
+    color: white;
+    border: none;
+    transform: translate(0px,-8px);
+    font-size: 17px;
+    
+}
+
+.btn-facebook a{
+    color: white;
+}
+
+.logo-nav{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.header-brand {
+    background-color: black;
+    height: 34em;
+    width: 100%;
+    
+}
+
+.image-header{
+    transform: translate(0,-7em);
+}
+
+.man-model{
+    width: 65%;
+    height: 50em;
+    transform: translate(3em, -2em);
+    
+}
+
+.text-img{
+    width: 40%;
+    transform: translate(120%,10%);
+    position: absolute;
+}
+.btn-facebook1 {
+    padding: 10px 20px;
+    background-color: rgb(87, 87, 255);
+    color: white;
+    border: none;
+    transform: translate(212%,-320%);
+    font-size: 17px;
+    width: 25em;
+    height: 3.3em;
+    
+}
+
+.btn-facebook1 a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+/* Main css */
+
+.cashback{
+    background-color: white;
+    width: 100%;
+    height: 304px;
+    transform: translateY(-0.5em);  
+}
+
+/* Section cashback */
+
+.cashback1{
+   transform: translate(25%,-30%);
+   width: 65%;
+
+}
+
+.text-cashback h1{
+    font-size: 60px;
+}
+
+.text-cashback p{
+    font-size: 25px;
+}
+
+.text-number-div .text-number{
+  font-size: 25px;
+  
+}
+
+.text-number-div{
+    display: flex;   
+}
+
+.text-number{
+    width: 100%;
+    display: flex; 
+    gap: 2em;
+    transform: translate(100px,0);
+    
+}
+
+
+
+.numbers{
+    font-size: 250px;
+    display: flex;
+    gap: .8em;
+    transform: translate(50px,0);
+}
+
+.usarlo-text{
+    text-align: center;
+    
+}
+
+.usarlo-text p{
+    font-size: 20px;
+    transform: translate(0px,120px );
+}
+
+/* Section Beneficios */
+
+.beneficios{
+    
+}
+
+
+
+
