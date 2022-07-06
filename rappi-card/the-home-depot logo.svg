@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Taille_personnalisée_1">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Taille_personnalisée_1" data-name="Taille personnalisée – 1" clip-path="url(#clip-Taille_personnalisée_1)">
+    <rect width="100" height="100" fill="#fff"/>
+    <g id="Groupe_1" data-name="Groupe 1" transform="translate(0 8)">
+      <text id="The_Home" data-name="The 
+Home" transform="translate(8.822 48.543) rotate(-40)" font-size="8" font-family="OmbudsmanStencil, Ombudsman Stencil"><tspan x="-4.68" y="10">The</tspan><tspan y="10" font-size="10"> </tspan><tspan font-size="19"><tspan x="-16.349" y="25">Home</tspan></tspan></text>
+      <text id="DePOT_" data-name="DePOT" transform="translate(55.729 51.359) rotate(-40)" font-size="8" font-family="OmbudsmanStencil, Ombudsman Stencil"><tspan x="-7.74" y="0">DePOT</tspan><tspan x="0" y="15"></tspan></text>
+    </g>
+  </g>
+</svg>

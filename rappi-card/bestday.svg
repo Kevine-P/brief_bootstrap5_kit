@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Taille_personnalisée_2">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Taille_personnalisée_2" data-name="Taille personnalisée – 2" clip-path="url(#clip-Taille_personnalisée_2)">
+    <rect width="100" height="100" fill="#fff"/>
+    <text id="BestDay.com_" data-name="BestDay.com
+" transform="translate(52 54)" font-size="14" font-family="OpenSans-Extrabold, Open Sans" font-weight="800"><tspan x="-40.492" y="0">BestDay.</tspan><tspan y="0" font-size="8">com</tspan><tspan font-size="8"><tspan x="0" y="11"></tspan></tspan></text>
+  </g>
+</svg>
